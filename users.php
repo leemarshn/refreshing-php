@@ -15,8 +15,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "733securex";
+$username = "";
+$password = "";
 $databasename = "test";
 
 // CREATE CONNECTION
