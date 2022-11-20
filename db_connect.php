@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "";
-$password = "";
+$username = "root";
+$password = "733securex";
 $dbname = "test";
 
 
@@ -10,7 +10,7 @@ $last_name= $_POST['last_name'];
 $address = $_POST['address'];
 $gender = $_POST['gender'];
 $state = $_POST['state'];
-$city =$_POST[city];
+$city =$_POST['city'];
 $dob = $_POST['dob'];
 $course = $_POST['course'];
 
